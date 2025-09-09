@@ -3,12 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "r-collab"
+  title: "Team Tae Eun & Lok"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: resources.qmd
+        text: Resources
 
 format:
   html:
@@ -17,6 +20,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    page-layout: full
 
 
 
