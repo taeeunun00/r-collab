@@ -1,7 +1,7 @@
 ---
-title: "r-collab"
+title: "Our collaborative website"
 ---
 
-This is a Quarto website.
+Hi, this is Tae Eun and Lok's collaborative website!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![Cornell University](2019_1365_014.jpg)
