@@ -1,22 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-<<<<<<< HEAD
-    "title": "r-collab",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-=======
-    "title": "Our collaborative website",
-    "section": "",
-    "text": "Hi, this is Tae Eun and Lok’s collaborative website!\n\n\n\nCornell University"
->>>>>>> 9369593cfdb207bbc1c5b8ae7f9516c035927f9b
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Our collaborative website",
+    "section": "",
+    "text": "Hi, this is Tae Eun and Lok’s collaborative website!\n\n\n\nCornell University"
   }
 ]
