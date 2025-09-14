@@ -1,0 +1,8 @@
+---
+title: "people"
+editor: visual
+---
+
+This is a page to list people in our team. [CALS peo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcals.cornell.edu%2Fglobal-development%2Fabout%2Fpeople&psig=AOvVaw1YrdhCMrq8Q7netVA2FRVM&ust=1757975168816000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCMil7YWm2Y8DFQAAAAAdAAAAABAE "People")ple
+
+![People at CALS](https://cals.cornell.edu/sites/default/files/styles/hero_landing_desktop/public/2022-06/gd-comm-2022-4973.jpg?h=5c87dc81&itok=CKpPglDa)

@@ -12,6 +12,9 @@ website:
         text: About
       - href: resources.qmd
         text: Resources
+      - href: people.qmd
+        text: People
+        
 
 format:
   html:

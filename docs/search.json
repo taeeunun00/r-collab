@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Our collaborative website",
+    "section": "",
+    "text": "Hi, this is Tae Eun and Lok’s collaborative website!\n\n\n\nCornell University"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,10 +14,10 @@
     "text": "About this site"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Our collaborative website",
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "people",
     "section": "",
-    "text": "Hi, this is Tae Eun and Lok’s collaborative website!\n\n\n\nCornell University"
+    "text": "This is a page to list people in our team. CALS people\n\n\n\nPeople at CALS"
   }
 ]
